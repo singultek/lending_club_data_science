@@ -10,7 +10,7 @@ The goal of the project is examining the data exploration and visualization tech
 **Table of Contents**
 
 * [Directory structure](#directory-structure)
-* [Explaination of project](#explaination-of-project)
+* [Explaination of Project](#explaination-of-project)
 * [Discussion of Results](#discussion-of-results)
 * [About Author](#about-author)
 
@@ -26,7 +26,7 @@ The goal of the project is examining the data exploration and visualization tech
 
 ---
 
-## Explaination of project
+## Explaination of Project
 
 
 The project consists of 4 main parts:
