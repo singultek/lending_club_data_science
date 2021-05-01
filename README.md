@@ -20,6 +20,9 @@ The goal of the project is examining the data exploration and visualization tech
 
 ```
 .
+├──Data
+│   ├── lending_club.csv
+│   └── lending_club_info.csv
 ├── LICENSE
 ├── README.md
 ```
