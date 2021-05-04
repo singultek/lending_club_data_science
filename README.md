@@ -26,8 +26,8 @@ The goal of the project is examining the data exploration and visualization tech
 │   └── lending_club_info.csv
 ├── Models
 │   └── loan_status_classifier.h5
-├── Lending_Club_Loan_Classifier.ipynb
 ├── LICENSE
+├── Lending_Club_Loan_Classifier.ipynb
 ├── README.md
 └── requirements.txt
 ```
