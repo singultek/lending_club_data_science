@@ -84,7 +84,7 @@ In a nutshell, the model has better accuracy(89%) than random prediction(50%) an
 
 ### About Author
 
-I'm Sinan Gültekin, a master student on Computer and Automation Engineering at University of Siena. 
+I'm Sinan Gültekin, a master student in Computer and Automation Engineering at the University of Siena. 
 
 For any suggestions or questions, you can contact me via <singultek@gmail.com>
 
